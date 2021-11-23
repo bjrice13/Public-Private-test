@@ -1,0 +1,3 @@
+[submodule "Private-Repo-Test"]
+	path = Private-Repo-Test
+	url = git@github.com:bjrice13/Private-Repo-Test.git
